@@ -1,0 +1,41 @@
+{
+  "title": "Tytera Flash Tool  ",
+  "filename": "FILENAME",
+  "open": "Open",
+  "firmware": "FIRMWARE",
+  "downloadGPS": "Download GPS",
+  "downloadNONGPS": "Download NON-GPS",
+  "FirmwareChoice": {
+    "TyMD380": "TyMDToolz",
+    "TyBetaMD380": "BetaMDToolz",
+    "TravisMD380": "MD380Tools"
+  },
+  "flashfw": "Flash",
+  "flashfwFromFile": "Flash from file",
+  "userdb": "USERDB",
+  "downloadUpdate": "Download Update",
+  "flashdb": "Flash",
+  "flashdbFromFile": "Flash from file",
+  "statusLabel": {
+    "numUsers": "Number of Users:",
+    "doneDl": "Done Downloading. Press Flash Button.",
+    "writecp": "writing codeplug...",
+    "readcp": "reading codeplug...",
+    "downgps": "downloading gps_fw.bin ...",
+    "downnongps": "downloading nongps_fw.bin ...",
+    "writegps": "writing gps_fw.bin ...",
+    "writenongps": "writing nongps_fw.bin ...",
+    "writefw": "writing firmware ...",
+    "done": "Done",
+    "downdb": "downloading userdb.bin ...",
+    "writedb": "writing userdb.bin ..."
+  },
+  "messages": {
+    "pleasedldb": "Please download a userdb!",
+    "opencp": "Please open a codeplug!",
+    "invaliddfu": "Invalid file type.  Must be .dfu",
+    "onefw": "Please download only one firmware!",
+    "openfw": "Please open a firmware!"
+  },
+  "openfilterpre": ["Firmware or UserDB", "Codeplug Files", "All files"]
+}
